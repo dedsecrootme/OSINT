@@ -1,0 +1,79 @@
+ fichiers et repo made  in ded_sec tout droit reservé 2026  communauté  : https://discord.gg/QnF6dKw7R5 
+OSINT : c’est l’art de collecter et croiser des informations publiques pour en tirer quelque chose d’utile. On parle de sources ouvertes, donc accessibles légalement, sans intrusion ni contournement.
+
+Source fiable : c’est une source dont on peut vérifier l’origine, la date, et la cohérence avec d’autres sources. En OSINT, une seule source ne suffit presque jamais.
+
+Recoupement : c’est le fait de comparer plusieurs sources indépendantes pour confirmer une info. Plus une donnée est confirmée par des sources différentes, plus sa confiance monte.
+
+Source primaire : c’est la source originale, celle qui publie l’info en premier. En général, c’est la meilleure base pour éviter les erreurs.
+
+Vérification d’image ou de vidéo : on cherche à savoir si un visuel est ancien, sorti de son contexte ou manipulé. C’est une étape clé quand on traite des contenus viraux.
+
+Méthodologie : une bonne enquête OSINT suit un ordre clair, par exemple : question, collecte, tri, vérification, recoupement, puis conclusion. Sans méthode, on s’éparpille vite.
+
+Gratuit ou payant : une ressource gratuite peut être excellente, mais certaines bases de données, APIs ou services premium donnent plus de profondeur ou de rapidité.
+
+Score de confiance : c’est une note que tu peux donner à une source selon sa fiabilité, sa transparence, sa mise à jour et sa réputation. Plus la source est officielle et recoupable, plus la note monte.
+
+Les outils
+OSINT-FR Outils
+ — annuaire très pratique d’outils OSINT classés par catégories. Gratuit.
+
+MOOC OSINT-FR
+ — apprentissage de la vérification et de la méthode. Gratuit.
+
+IBM OSINT
+ — définition claire et sérieuse du concept. Gratuit.
+
+Trend Micro OSINT
+ — bonne ressource orientée cybersécurité. Gratuit.
+
+Guardia School OSINT
+ — introduction simple, utile pour démarrer. Gratuit.
+
+OSINT-HUB-FR
+ — hub de liens et ressources OSINT. Gratuit.
+
+How2Cyber OSINT
+ — sélection d’outils OSINT et catégories pratiques. Gratuit / freemium.
+
+Jedha Bootcamp OSINT
+ — article utile pour voir plusieurs outils connus. Gratuit.
+
+DCOD OSINT 2026
+ — liste d’outils avec usages concrets. Gratuit.
+
+VeriSources OSINT débutants
+ — bon point de départ pour les débutants. Gratuit / freemium.
+
+Lenso.ai guide OSINT
+ — recherche de personnes et de visages. Freemium.
+
+Crea Troyes OSINT
+ — liste simple d’outils utiles. Gratuit.
+
+Sherlock — recherche un pseudo sur plein de sites. Gratuit.
+
+Maigret — très bon pour l’investigation de usernames. Gratuit.
+
+WhatsMyName — vérifie un pseudo sur de nombreuses plateformes. Gratuit.
+
+Namechk — contrôle la disponibilité d’un nom d’utilisateur. Freemium.
+
+Have I Been Pwned — vérifie si un email est apparu dans une fuite connue. Gratuit / options avancées.
+
+VirusTotal — analyse URL, fichiers, domaines et IP. Gratuit / payant.
+
+Shodan — moteur de recherche pour services exposés sur Internet. Freemium / payant.
+
+Maltego — cartographie de relations entre entités. Freemium / payant.
+
+SpiderFoot — automatisation OSINT sur domaines, IP, emails et plus. Gratuit / payant.
+
+theHarvester — collecte emails, sous-domaines et indices publics. Gratuit.
+
+InVID — vérification de vidéos et d’images. Gratuit.
+
+Wayback Machine — archive du web pour revoir d’anciennes pages. Gratuit.
+
+Reverse Images Search — utile pour retrouver l’origine d’une image. Gratuit.
