@@ -1,0 +1,108 @@
+Outils CSINT
+Recorded Future — plateforme de threat intelligence très avancée pour corréler des menaces, suivre des acteurs et recevoir des alertes exploitables.
+
+Mandiant Advantage — utile pour analyser les campagnes, les IOC et les comportements d’attaquants avec du renseignement enrichi.
+
+Flashpoint — très fort pour les sources cachées, les fuites et les environnements clandestins.
+
+Intel 471 — bon pour le suivi des acteurs de menace et la compréhension de leurs activités.
+
+VirusTotal Intelligence — permet d’analyser fichiers, domaines, URL et relations techniques avec beaucoup de contexte.
+
+Cisco Talos Intelligence — utile pour vérifier la réputation d’IP, de domaines et d’indicateurs techniques.
+
+AbuseIPDB — sert à contrôler rapidement si une adresse IP a été signalée comme abusive.
+
+AlienVault OTX — plateforme de partage d’indicateurs, utile pour enrichir et croiser des IOC.
+
+IBM X-Force Exchange — fournit de la réputation et du contexte sur les menaces et les actifs exposés.
+
+Shodan — moteur de recherche pour voir quels services et équipements sont exposés sur Internet.
+
+Censys — très utile pour cartographier les hôtes, certificats et services visibles publiquement.
+
+ZoomEye — sert à rechercher des équipements et services exposés à grande échelle.
+
+GreyNoise — aide à distinguer le bruit Internet des vraies activités suspectes.
+
+Netlas — pratique pour découvrir des actifs, des domaines et des surfaces d’attaque.
+
+Maltego — très bon pour visualiser les relations entre domaines, personnes, emails, IP et organisations.
+
+SpiderFoot — automatise la collecte et le croisement d’informations depuis beaucoup de sources.
+
+Onyphe — utile pour la découverte d’exposition et la cartographie d’attaque surface.
+
+Neo4j — base graphe très efficace pour stocker et explorer des liens entre entités.
+
+Elastic / Kibana — pratique pour centraliser, rechercher et visualiser de gros volumes de données.
+
+Have I Been Pwned — vérifie si un email ou un compte a été trouvé dans une fuite.
+
+Holehe — permet de tester l’existence d’un email sur plusieurs services.
+
+Epieos — très utile pour enrichir un email ou un numéro de téléphone.
+
+h8mail — sert à chercher des emails dans des fuites et bases connues.
+
+Sherlock — recherche un pseudonyme sur de nombreux services.
+
+Maigret — fait une recherche plus large de pseudonymes et d’empreintes numériques.
+
+PhoneInfoga — sert à enrichir et analyser un numéro de téléphone.
+
+Google Lens — utile pour identifier visuellement un objet, un lieu, un logo ou une capture.
+
+TinEye — moteur de recherche d’images inversée pour retrouver l’origine ou les reprises d’une image.
+
+ExifTool — très efficace pour lire les métadonnées d’images, vidéos et fichiers.
+
+Forensically — aide à analyser une image pour repérer des modifications ou des anomalies.
+
+FotoForensics — utile pour certains contrôles de cohérence visuelle.
+
+InVID — très bon pour vérifier des vidéos, extraire des images et analyser des contenus.
+
+Wayback Machine — archive des versions passées de pages web et de sites.
+
+archive.today / archive.ph — permet de figer une page web à un instant donné.
+
+urlscan.io — analyse une URL, ses requêtes, ses ressources et ses indices techniques.
+
+CachedView — peut aider à retrouver des versions mises en cache de pages.
+
+theHarvester — collecte emails, sous-domaines et autres éléments de surface d’attaque.
+
+amass — très efficace pour découvrir des sous-domaines.
+
+subfinder — rapide pour trouver des sous-domaines.
+
+assetfinder — utile pour compléter la recherche d’actifs et de domaines.
+
+gau — récupère des URLs historiques utiles pour la veille ou l’analyse.
+
+waybackurls — extrait les anciennes URLs d’un domaine via les archives.
+
+Recon-ng — framework modulaire pour automatiser certaines tâches de collecte.
+
+MISP — plateforme pour stocker, enrichir et partager des indicateurs de menace.
+
+OpenCTI — excellent pour structurer un renseignement cyber complet et relié.
+
+Any.Run — sandbox interactive pour observer le comportement d’un fichier ou d’une URL.
+
+Joe Sandbox — analyse dynamique avancée de fichiers et de menaces.
+
+Hybrid Analysis — utile pour enrichir rapidement un échantillon suspect.
+
+Cuckoo Sandbox — sandbox open source pour l’analyse de malwares.
+
+Crunchbase — utile pour la veille d’entreprises, d’investisseurs et de relations capitalistiques.
+
+OpenCorporates — base très pratique pour les informations d’entreprises.
+
+LexisNexis — bon pour la recherche documentaire et les sources spécialisées.
+
+Dun & Bradstreet — utile pour l’analyse d’entreprises et la qualification de risque.
+
+Pipl — sert à l’enrichissement d’identité selon les usages autorisés.
