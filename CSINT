@@ -1,0 +1,114 @@
+Introduction
+Le CSINT (Closed-Source Intelligence, parfois aussi compris comme Commercially-Sourced Intelligence selon les usages) est une méthode de collecte, de croisement et d’analyse d’informations issues de sources non publiques. Ces sources peuvent être restreintes, confidentielles, payantes, réservées à un groupe précis ou accessibles uniquement dans un cadre particulier. Contrairement à l’OSINT, qui se concentre sur les données publiques, le CSINT cherche à exploiter des informations qui ne sont pas visibles par tout le monde, afin d’obtenir une vision plus précise, plus stratégique ou plus technique d’un sujet.
+
+Dans un contexte moderne, le CSINT est surtout utilisé dans les domaines où l’information a une forte valeur : cybersécurité, renseignement économique, analyse de risques, investigation numérique, veille stratégique et parfois enquêtes privées. Il permet d’aller au-delà de ce qui est directement observable sur Internet et d’accéder à des données plus spécialisées, plus fraîches ou plus détaillées.
+
+Définition simple
+En version simple, le CSINT consiste à :
+
+chercher des informations qui ne sont pas publiques ;
+
+utiliser des sources fermées, privées ou commerciales ;
+
+analyser ces données pour en tirer des conclusions utiles ;
+
+recouper ces éléments avec d’autres sources pour vérifier leur fiabilité.
+
+Autrement dit, si l’OSINT est la recherche dans ce qui est visible par tous, le CSINT est la recherche dans ce qui demande un accès particulier, une autorisation, un abonnement ou un cadre professionnel.
+
+Pourquoi utiliser le CSINT
+Le CSINT est utile quand les sources publiques ne suffisent pas. Une information ouverte peut être incomplète, trop générale, trop ancienne ou difficile à confirmer. Les sources fermées apportent alors un niveau de détail supplémentaire, souvent précieux pour :
+
+détecter des menaces plus tôt ;
+
+comprendre des comportements cachés ;
+
+analyser des acteurs ou des organisations ;
+
+identifier des risques techniques ou financiers ;
+
+produire un renseignement plus fiable.
+
+En cybersécurité, cela peut servir à suivre des campagnes malveillantes, à surveiller des indicateurs de compromission, à analyser des infrastructures exposées ou à anticiper des attaques. En intelligence économique, cela peut aider à étudier un marché, un concurrent, un fournisseur ou un secteur stratégique à partir de données spécialisées.
+
+Différence entre OSINT et CSINT
+L’OSINT et le CSINT sont proches, mais ils ne travaillent pas sur le même type de sources.
+
+Critère	OSINT	CSINT
+Type de source	Publique	Non publique, restreinte ou commerciale
+Accès	Libre	Souvent limité, payant ou autorisé
+Exemples	Sites web, réseaux sociaux, presse, documents publics	Bases privées, rapports premium, données internes, services spécialisés
+But	Comprendre le visible	Aller plus loin, compléter, préciser
+Usage courant	Veille, enquête, cybersécurité, communication	Renseignement, analyse avancée, cybersécurité, stratégie
+Les deux approches sont souvent complémentaires. Une bonne analyse commence souvent par l’OSINT pour comprendre le contexte, puis utilise le CSINT pour obtenir des détails critiques ou vérifier des hypothèses.
+
+Ce qu’on peut utiliser en CSINT
+Le CSINT peut s’appuyer sur plusieurs types de sources et d’outils. Selon le contexte, on peut utiliser :
+
+1. Bases de données privées
+Ce sont des bases non publiques, réservées à des abonnés, à des clients ou à des équipes internes. Elles peuvent contenir des données techniques, financières, juridiques ou sectorielles.
+
+2. Rapports spécialisés
+De nombreuses entreprises vendent des rapports de threat intelligence, de veille concurrentielle ou d’analyse de marché. Ces documents sont souvent plus détaillés qu’un simple article public.
+
+3. Plateformes de threat intelligence
+En cybersécurité, les plateformes spécialisées fournissent des IOC, des informations sur des campagnes, des fichiers suspects, des adresses malveillantes ou des corrélations techniques.
+
+4. Données internes
+Dans une entreprise, les journaux, tickets, alertes, historiques d’incidents, inventaires ou bases internes peuvent être exploités comme source d’analyse.
+
+5. Services payants ou sous licence
+Certains outils donnent accès à des données avancées, à des scans d’infrastructure, à des métadonnées ou à des corpus enrichis.
+
+6. Informations confidentielles ou à accès restreint
+Selon le cadre légal et l’organisation, certaines données ne sont accessibles qu’à des personnes autorisées, par exemple dans des structures publiques, juridiques ou de sécurité.
+
+Méthode de travail
+Un projet CSINT sérieux suit généralement une méthode claire.
+
+Étape 1 : définir l’objectif
+Avant de chercher quoi que ce soit, il faut savoir exactement ce qu’on veut comprendre. Par exemple :
+
+identifier une menace ;
+
+analyser un acteur ;
+
+surveiller une infrastructure ;
+
+étudier un concurrent ;
+
+produire une synthèse sur un sujet sensible.
+
+Sans objectif précis, on collecte beaucoup d’informations mais on produit peu de renseignement utile.
+
+Étape 2 : choisir les bonnes sources
+Toutes les sources fermées ne se valent pas. Il faut choisir celles qui sont :
+
+pertinentes ;
+
+fiables ;
+
+à jour ;
+
+légales à utiliser ;
+
+compatibles avec le besoin d’analyse.
+
+Étape 3 : collecter les données
+La collecte doit rester propre, documentée et organisée. Il faut noter la source, la date, le type d’accès et le niveau de confiance accordé à l’information.
+
+Étape 4 : recouper et vérifier
+Une donnée fermée n’est pas automatiquement vraie. Il faut la comparer avec d’autres éléments, vérifier la cohérence et repérer les contradictions.
+
+Étape 5 : analyser et produire
+Le but final n’est pas d’empiler des documents, mais de produire une analyse claire. Cela peut être :
+
+un rapport ;
+
+une fiche d’observation ;
+
+un tableau de corrélation ;
+
+une chronologie ;
+
+une synthèse de menace.
