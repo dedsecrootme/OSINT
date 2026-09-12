@@ -1,0 +1,410 @@
+Liste Complète de Sites et Outils pour l'OPSEC
+Voici une liste exhaustive de sites web et d'outils à utiliser pour améliorer ta sécurité et ta vie privée en ligne, classés par catégorie.
+
+🔐 MESSAGERIE SÉCURISÉE
+Signal - https://signal.org (messagerie chiffrée de référence)
+
+Session - https://getsession.org (messagerie sans numéro de téléphone)
+
+Element / Matrix - https://element.io (chat décentralisé)
+
+SimpleX Chat - https://simplex.chat (sans identifiants utilisateurs)
+
+Briar - https://briarproject.org (messagerie P2P hors ligne)
+
+Wire - https://wire.com (messagerie et visio sécurisée)
+
+📧 EMAIL CHIFFRÉ
+Proton Mail - https://proton.me/mail (email chiffré suisse)
+
+Tuta (Tutanota) - https://tuta.com (email chiffré allemand)
+
+Mailbox.org - https://mailbox.org (email privé)
+
+Posteo - https://posteo.de (email écologique et privé)
+
+Forward Email - https://forwardemail.net (email open source)
+
+Disroot - https://disroot.org (services décentralisés)
+
+🌐 NAVIGATEURS
+Firefox - https://mozilla.org/firefox (avec configuration Arkenfox)
+
+LibreWolf - https://librewolf.net (Firefox pré-durci)
+
+Tor Browser - https://torproject.org (navigation anonyme)
+
+Brave - https://brave.com (bloque pubs et trackers)
+
+Mullvad Browser - https://mullvad.net/browser (anti-fingerprinting)
+
+Waterfox - https://waterfox.net (Firefox sans télémétrie)
+
+Fennec - https://f-droid.org/packages/org.mozilla.fennec_fdroid (Firefox mobile F-Droid)
+
+DuckDuckGo Browser - https://duckduckgo.com/app
+
+Vivaldi - https://vivaldi.com (personnalisable)
+
+Zen Browser - https://zen-browser.app
+
+🔍 MOTEURS DE RECHERCHE
+DuckDuckGo - https://duckduckgo.com
+
+Startpage - https://startpage.com (résultats Google sans tracking)
+
+Searx / SearxNG - https://searxng.org (métamoteur open source)
+
+Searx.me - https://searx.me
+
+Brave Search - https://search.brave.com
+
+Mojeek - https://mojeek.com (index indépendant UK)
+
+Qwant - https://qwant.com (français)
+
+Ecosia - https://ecosia.org (plante des arbres)
+
+MetaGer - https://metager.de (allemand, anonyme)
+
+Oscobo - https://oscobo.com
+
+Peekier - https://peekier.com
+
+Gibiru - https://gibiru.com
+
+Swisscows - https://swisscows.com
+
+Whoogle - https://github.com/benbusby/whoogle-search (Google sans tracking, auto-hébergeable)
+
+4get - https://4get.ca (proxy Google/Bing léger)
+
+🗂️ STOCKAGE DE FICHIERS
+Tresorit - https://tresorit.com (cloud chiffré)
+
+Proton Drive - https://proton.me/drive
+
+Tuta Drive - https://tuta.com (en développement)
+
+Cryptomator - https://cryptomator.org (chiffrement cloud)
+
+VeraCrypt - https://veracrypt.fr (volumes chiffrés)
+
+CryptPad - https://cryptpad.fr (docs chiffrés collaboratifs)
+
+LibreOffice - https://libreoffice.org (alternative Google Docs)
+
+Nextcloud - https://nextcloud.com (cloud auto-hébergé)
+
+Sync.com - https://sync.com (cloud canadien chiffré)
+
+Icedrive - https://icedrive.net
+
+🔑 GESTIONNAIRES DE MOTS DE PASSE
+Bitwarden - https://bitwarden.com (open source, recommandé)
+
+KeePassXC - https://keepassxc.org (local, offline)
+
+KeePass DX - https://www.keepassdx.com (Android)
+
+1Password - https://1password.com
+
+LessPass - https://lesspass.com (générateur de mots de passe)
+
+Passbolt - https://passbolt.com (équipe, open source)
+
+Padloc - https://padloc.app
+
+📱 AUTHENTIFICATION 2FA
+FreeOTP - https://freeotp.github.io (Red Hat)
+
+Aegis Authenticator - https://getaegis.app (Android, F-Droid)
+
+Authy - https://authy.com
+
+Raivo OTP - https://raivo-otp.com (iOS)
+
+Ente Auth - https://ente.io/auth
+
+2FAS - https://2fas.com
+
+🗺️ CARTES ET NAVIGATION
+OpenStreetMap - https://openstreetmap.org
+
+OsmAnd - https://osmand.net (cartes offline)
+
+Organic Maps - https://organicmaps.app
+
+Magic Earth - https://magicearth.com
+
+Qwant Maps - https://qwant.com/maps
+
+Here WeGo - https://wego.here.com
+
+📞 APPELS ET VISIO
+Signal - https://signal.org (appels chiffrés)
+
+Jitsi Meet - https://jitsi.org (visio open source)
+
+Brave Talk - https://brave.com/brave-talk
+
+Element Call - https://element.io/call
+
+Linphone - https://linphone.org (VoIP chiffré)
+
+Briar - https://briarproject.org (P2P)
+
+📱 SYSTÈMES MOBILES
+GrapheneOS - https://grapheneos.org (Android durci, Pixel)
+
+CalyxOS - https://calyxos.org (Android privé)
+
+LineageOS - https://lineageos.org (Android custom)
+
+/e/OS - https://e.foundation (Android sans Google)
+
+DivestOS - https://divestos.org
+
+💻 SYSTÈMES BUREAU
+Tails - https://tails.boum.org (live OS anonyme, Tor)
+
+Qubes OS - https://qubes-os.org (OS compartmenté)
+
+Whonix - https://whonix.org (Tor + VM)
+
+Linux (Debian, Fedora, etc.) - https://debian.org / https://fedoraproject.org
+
+🛡️ VPN
+Mullvad VPN - https://mullvad.net (anonymat maximal)
+
+Proton VPN - https://proton.me/vpn
+
+IVPN - https://ivpn.net
+
+Windscribe - https://windscribe.com
+
+AirVPN - https://airvpn.org
+
+AzireVPN - https://azirevpn.com
+
+VPN Acquist - https://vpn.ac
+
+🔒 CHIFFREMENT DE FICHIERS
+VeraCrypt - https://veracrypt.fr
+
+Cryptomator - https://cryptomator.org
+
+GPG / GnuPG - https://gnupg.org
+
+Age / Rage - https://age-encryption.org
+
+Picocrypt - https://github.com/HACKERALERT/Picocrypt
+
+Hat.sh - https://hat.sh (chiffrement navigateur)
+
+🗑️ SUPPRESSION DONNÉES INTERNET
+Incogni - https://incogni.com
+
+DeleteMe - https://joindeleteme.com
+
+Optery - https://optery.com
+
+Kanary - https://kanary.com
+
+Privacy Bee - https://privacybee.com
+
+🕵️ OSINT (OPEN SOURCE INTELLIGENCE)
+Recherche générale
+Have I Been Pwned - https://haveibeenpwned.com (fuites de données)
+
+DeHashed - https://dehashed.com
+
+Intelligence X - https://intelx.io
+
+Breachsense - https://breachsense.io
+
+Analyse d'adresses IP et domaines
+Shodan - https://shodan.io (moteur de recherche IoT)
+
+Censys - https://censys.io
+
+GreyNoise - https://greynoise.io
+
+SecurityTrails - https://securitytrails.com
+
+VirusTotal - https://virustotal.com
+
+urlscan.io - https://urlscan.io (analyse URLs)
+
+AbuseIPDB - https://abuseipdb.com
+
+Whois - https://whois.domaintools.com
+
+DNSDumpster - https://dnsdumpster.com
+
+ViewDNS - https://viewdns.info
+
+Réseaux sociaux et personnes
+Maltego - https://maltego.com (analyse de liens)
+
+SpiderFoot - https://spiderfoot.net
+
+Social Links - https://sociallinks.io
+
+Skopenow - https://skopenow.com
+
+OSINT Industries - https://osint.industries
+
+Epieos - https://epieos.com
+
+Maigret - https://github.com/soxoj/maigret (recherche username)
+
+Crypto et blockchain
+Chainalysis - https://chainalysis.com
+
+TRM Labs - https://trmlabs.com
+
+Elliptic - https://elliptic.co
+
+Arkham - https://arkhamintelligence.com
+
+Etherscan - https://etherscan.io
+
+Blockchain.com Explorer - https://blockchain.com/explorer
+
+Géolocalisation et images
+Exif Viewer - https://exifviewer.org
+
+Jeffrey's Image Metadata Viewer - http://exif.regex.info
+
+SunCalc - https://suncalc.org (position soleil)
+
+PeakVisor - https://peakvisor.com (montagnes)
+
+Windy - https://windy.com (météo)
+
+Dark Web
+DarkOwl - https://darkowl.com
+
+SpyCloud - https://spycloud.com
+
+Hudson Rock - https://hudsonrock.com
+
+Flare - https://flare.io
+
+🧰 OUTILS DIVERS
+Nettoyage et vie privée
+Exodus Privacy - https://exodus-privacy.eu.org (trackers apps Android)
+
+Privacy Badger - https://privacybadger.org (extension)
+
+uBlock Origin - https://ublockorigin.com (bloqueur pubs)
+
+Decentraleyes - https://decentraleyes.org (anti-CDN tracking)
+
+ClearURLs - https://clearurls.net (nettoie URLs)
+
+LocalCDN - https://localcdn.org
+
+Analyse de sécurité
+Mozilla Observatory - https://observatory.mozilla.org (test sécurité site)
+
+Security Headers - https://securityheaders.com
+
+Qualys SSL Labs - https://ssllabs.com/ssltest
+
+Have I Been Pwned - https://haveibeenpwned.com
+
+Firefox Monitor - https://monitor.firefox.com
+
+DNS
+Cloudflare DNS - https://1.1.1.1
+
+Quad9 - https://quad9.net
+
+NextDNS - https://nextdns.io
+
+AdGuard DNS - https://adguard-dns.io
+
+Mullvad DNS - https://mullvad.net/dns
+
+Alternatives Google (DeGoogle)
+DeepL - https://deepl.com (traduction)
+
+LibreTranslate - https://libretranslate.com
+
+Vimeo - https://vimeo.com (vidéos)
+
+Invidious - https://invidious.io (YouTube sans tracking)
+
+NewPipe - https://newpipe.net (YouTube Android)
+
+Grayjay - https://grayjay.app
+
+F-Droid - https://f-droid.org (store Android open source)
+
+Aurora Store - https://aurorastore.org (Play Store anonyme)
+
+📚 RESSOURCES ET FORMATION
+r/opsec - https://reddit.com/r/opsec (communauté OPSEC)
+
+r/privacy - https://reddit.com/r/privacy
+
+r/degoogle - https://reddit.com/r/degoogle
+
+Privacy Guides - https://privacyguides.org
+
+EFF Surveillance Self-Defense - https://ssd.eff.org
+
+Exit Chat Control - https://exitchatcontrol.org/fr
+
+Trace Labs - https://tracelabs.org (OSINT CTF)
+
+OpenClassrooms - EBIOS RM - https://openclassrooms.com (formation ANSSI)
+
+Guardia School - https://guardia.school (cybersécurité)
+
+🛒 MARKETPLACES SÉCURISÉS
+F-Droid - https://f-droid.org (apps Android open source)
+
+Aurora Store - https://aurorastore.org (Play Store anonyme)
+
+GitHub - https://github.com (code open source)
+
+GitLab - https://gitlab.com
+
+📊 OUTILS PROFESSIONNELS (ENTREPRISES)
+Maltego - https://maltego.com
+
+Palantir - https://palantir.com
+
+Recorded Future - https://recordedfuture.com
+
+Flashpoint - https://flashpoint.io
+
+Cellebrite - https://cellebrite.com (forensique mobile)
+
+Magnet Forensics - https://magnetforensics.com
+
+Oxygen Forensics - https://oxygen-forensic.com
+
+💡 BONS PLANS GRATUITS
+Proton (Free) - Email, VPN, Drive gratuits
+
+Tuta (Free) - Email chiffré gratuit
+
+Bitwarden (Free) - Gestionnaire de mots de passe
+
+Signal - Messagerie 100% gratuite
+
+Tor Browser - Navigation anonyme gratuite
+
+F-Droid - Store Android gratuit
+
+Have I Been Pwned - Vérification fuites gratuite
+
+VirusTotal - Analyse fichiers/URLs gratuite
+
+Shodan (Free tier) - Recherche IoT limitée gratuite
+
+Exif Viewer - Analyse métadonnées gratuite
