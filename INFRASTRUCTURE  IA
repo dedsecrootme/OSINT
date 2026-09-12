@@ -1,0 +1,7 @@
+L’infrastructure sera composée des éléments suivants :
+
+Un ordinateur HP sous Debian 13, équipé d’Ollama 3B. Ollama était déjà installé, mais je pense le remplacer par un modèle plus performant.
+
+Un ordinateur Dell sous Windows 10, auquel j’ajouterai Omarchy.
+
+Un réseau avec un débit de 1 000 Mb/s.
