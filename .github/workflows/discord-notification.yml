@@ -1,0 +1,71 @@
+name: Discord Notification
+
+on:
+  push:
+    branches:
+      - main
+      - master
+      - develop
+
+jobs:
+  notify-discord:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Send Discord Notification
+        run: |
+          COMMIT_HASH=$(git rev-parse --short HEAD)
+          COMMIT_MESSAGE=$(git log -1 --pretty=%B)
+          COMMIT_DATE=$(git log -1 --pretty=%ai)
+          REPO_URL="https://github.com/${{ github.repository }}"
+          COMMIT_URL="$REPO_URL/commit/${{ github.sha }}"
+
+          curl -X POST "${{ secrets.DISCORD_WEBHOOK_URL }}" \
+            -H "Content-Type: application/json" \
+            -d "{
+              \"embeds\": [
+                {
+                  \"title\": \"📝 Nouveau commit\",
+                  \"color\": 3447003,
+                  \"fields\": [
+                    {
+                      \"name\": \"📂 Repository\",
+                      \"value\": \"[\`${{ github.repository }}\`]($REPO_URL)\",
+                      \"inline\": false
+                    },
+                    {
+                      \"name\": \"👤 Auteur\",
+                      \"value\": \"ded_sec\",
+                      \"inline\": true
+                    },
+                    {
+                      \"name\": \"🔗 Commit\",
+                      \"value\": \"[\`$COMMIT_HASH\`]($COMMIT_URL)\",
+                      \"inline\": true
+                    },
+                    {
+                      \"name\": \"💬 Message\",
+                      \"value\": \"\`\`\`$COMMIT_MESSAGE\`\`\`\",
+                      \"inline\": false
+                    },
+                    {
+                      \"name\": \"📅 Date\",
+                      \"value\": \"$COMMIT_DATE\",
+                      \"inline\": true
+                    },
+                    {
+                      \"name\": \"🌿 Branche\",
+                      \"value\": \"${{ github.ref_name }}\",
+                      \"inline\": true
+                    }
+                  ],
+                  \"footer\": {
+                    \"text\": \"GitHub • OSINT Repository\"
+                  }
+                }
+              ]
+            }"
